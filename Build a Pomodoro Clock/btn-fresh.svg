@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>btn-fresh</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="800" transform="translate(-620.000000, -180.000000)">
+            <g id="btn-fresh" transform="translate(621.000000, 181.000000)">
+                <circle id="Oval-2-Copy" stroke="#FF9317" fill="#FFFFFF" cx="25" cy="25" r="25"></circle>
+                <g id="Group" transform="translate(18.333333, 18.333333)">
+                    <circle id="Oval-2-Copy-3" stroke="" cx="8.33333333" cy="6.66666667" r="6.66666667"></circle>
+                    <polygon id="Triangle-Copy" stroke="#FF9317" fill="#FF9317" stroke-linecap="round" stroke-linejoin="round" transform="translate(1.666667, 8.333333) rotate(-270.000000) translate(-1.666667, -8.333333) " points="3.33333333 8.33333333 0 10 0 6.66666667"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
